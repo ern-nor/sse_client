@@ -6,6 +6,8 @@ description: >-
 version: 0.1.1
 homepage: https://www.github.com/jamiewest/sse_client
 
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
 environment:
   sdk: '>=3.0.0 <4.0.0'
 
